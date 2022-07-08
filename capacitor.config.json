@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "Photo Sharing",
+	"webDir": "dist",
+	"bundledWebRuntime": false
+}
